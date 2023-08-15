@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\StringHash\bin\Debug\StringHash.exe.config
+C:\Users\Admin\source\repos\StringHash\bin\Debug\StringHash.exe
+C:\Users\Admin\source\repos\StringHash\bin\Debug\StringHash.pdb
+C:\Users\Admin\source\repos\StringHash\obj\Debug\StringHash.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\StringHash\obj\Debug\StringHash.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StringHash\obj\Debug\StringHash.exe
+C:\Users\Admin\source\repos\StringHash\obj\Debug\StringHash.pdb
